@@ -74,3 +74,4 @@ obj.c.d = 34; //thay đổi đối tượng sâu thì shallow copy thay đổi
 obj.a = 11; // thay đổi đối tượng nông thì shallow copy không thay đổi
 console.log(obj); // {a:1,b:2,c:{d:34}}
 console.log(newObj); // {a:1,b:2,c:{d:3}}
+///su noi dung tu tai khoan dung.lexuan@hcom.vn
